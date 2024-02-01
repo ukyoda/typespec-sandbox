@@ -10,3 +10,5 @@
 $ npm ci
 $ npm run build
 ```
+
+ビルドすると、srcディレクトリにあるSpecをOpenAPI形式に変換したものを`out`ディレクトリに出力します。
